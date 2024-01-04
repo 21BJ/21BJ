@@ -1,5 +1,5 @@
 - 👋 Hi, we're @21BJ
-- 🌱 We're building the first Web3 P&E fantasy Casino Games mobile application
+- 🌱 We're building the first Web3 P&E fantasy Casino Games mobile application totally non gambling 
 - 👀 Follow us for stay update
 - 💞️ If you want to collaborate contact us on this email -> hello@21bj.io
 
