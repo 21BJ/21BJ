@@ -1,11 +1,36 @@
-- 👋 Hi, we're @21BJ
-- 🌱 We're building the first Web3 P&E fantasy Casino Games mobile application totally non gambling 
-- 👀 Follow us for stay update
-- 💞️ If you want to collaborate contact us on this email -> hello@21bj.io
+# Sp3llbound Studios
 
-Be a Jacker or Be a Slacker , your Bet!
+🎮 **Welcome to Sp3llbound Studios** – A leading interactive Web3 gaming studio and provider!
 
-<!---
-21BJ/21BJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+We are at the forefront of creating an immersive and community-driven Web3 gaming ecosystem. Our focus is to combine the power of blockchain technology with engaging gameplay to offer unique experiences where players can truly own and interact with digital assets.
+
+---
+
+## 💡 What is Sp3llbound Studios?
+
+- [Website](https://www.sp3llboundstudios.com/)
+- [WhitePaper](https://whitepaper.sp3llboundstudios.com/)
+
+---
+
+## 🎮 Our Games
+- [21BJ](https://linktr.ee/21bj.io)
+- [The Last Dwarfs](http://linktr.ee/thelastdwarfs)
+
+---
+
+## 🌍 Join Our Community
+- [Discord](http://discord.gg/sp3llbound)
+
+---
+
+## 📱 Follow Us
+- [X (formerly Twitter)](https://x.com/Sp3ll_Bound_)
+- [Medium](https://medium.com/@sp3llboundstudios)
+- [LinkedIn](https://www.linkedin.com/company/sp3llbound-studios/)
+
+---
+
+We are constantly pushing the boundaries of what's possible in Web3 gaming. Join us on our journey to revolutionize the gaming industry!
+
+Cheers from the Sp3llbound Studios Team 🧙‍♂️
